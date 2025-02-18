@@ -16,7 +16,6 @@ Passionate programmer with a strong focus on enhancing user experience.<br>Exper
 
 ### 📊 My Projects:
 [<img src="https://github.com/kayn85/kayn85/blob/main/portfolio.png">](https://onlytechs.netlify.app/)
-[<img src="https://github.com/kayn85/kayn85/blob/main/portfolio.png">](https://onlytechs.netlify.app/)
-[<img src="https://github.com/kayn85/kayn85/blob/main/portfolio.png">](https://onlytechs.netlify.app/)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kayn85&icon=0&color=1)](https://visitcount.itsvg.in)
