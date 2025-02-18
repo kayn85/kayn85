@@ -1,6 +1,7 @@
 <h1>Hello 👋, I'm Kay</h1>
-<h3>Passionate programmer with a strong focus on enhancing user experience. <br>
-  Experienced in customer relations, teamwork, and leadership. Recognized for attention to detail, a positive attitude, and quickness.</h3>
+<h4>Passionate programmer with a strong focus on enhancing user experience. <br>
+  Experienced in customer relations, teamwork, and leadership. 
+  <br> Recognized for attention to detail, a positive attitude, and quickness.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayn85&label=Profile%20views&color=0e75b6&style=flat" alt="kayn85" /> </p>
 
