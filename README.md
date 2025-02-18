@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello 👋, I'm Kay<br>Passionate programmer with a strong focus on enhancing user experience.<br>Experienced in customer relations, teamwork, and leadership. Recognized for attention to detail, a positive attitude, and quickness.
+# 💫 Hello 👋, I'm Kay:
+<br>Passionate programmer with a strong focus on enhancing user experience.<br>Experienced in customer relations, teamwork, and leadership. Recognized for attention to detail, a positive attitude, and quickness.
 
 
 ## 🌐 Socials:
