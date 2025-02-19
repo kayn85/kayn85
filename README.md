@@ -3,7 +3,6 @@
 ## 👋Hello, I'm Kay!
 Passionate programmer with a strong focus on enhancing user experience.<br>Experienced in customer relations, teamwork, and leadership.<br> Recognized for attention to detail, a positive attitude, and quickness.
 
-
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kay-newyen) 
 
