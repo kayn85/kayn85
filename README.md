@@ -15,9 +15,9 @@ Passionate programmer with a strong focus on enhancing user experience.<br>Exper
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kayn85&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 📊 My Projects
-[<img src="https://github.com/kayn85/kayn85/blob/main/onlytechs.png">](https://onlytechs.netlify.app/)
-[<img src="https://github.com/kayn85/kayn85/blob/main/easyfood.png">](https://easifood.netlify.app/)
-[<img src="https://github.com/kayn85/kayn85/blob/main/hunger.png">](https://dahunger.netlify.app/)
-[<img src="https://github.com/kayn85/kayn85/blob/main/portfolio.png">](https://kayn-portfolio.netlify.app/)
+[<img src="https://github.com/kayn85/kayn85/blob/main/onlytechs.png">](https://github.com/kayn85/onlytechs)
+[<img src="https://github.com/kayn85/kayn85/blob/main/easyfood.png">](https://github.com/kayn85/easyfood)
+[<img src="https://github.com/kayn85/kayn85/blob/main/hunger.png">](https://github.com/kayn85/thehunger)
+[<img src="https://github.com/kayn85/kayn85/blob/main/portfolio.png">](https://github.com/kayn85/kay-portfolio)
 ---
 [![](https://visitcount.itsvg.in/api?id=kayn85&icon=0&color=1)](https://visitcount.itsvg.in)
