@@ -1,8 +1,7 @@
 ![MasterHead](https://github.com/kayn85/kayn85/blob/main/MasterHeader.png)
 
 ## 👋Hello, I'm Kay!
-Passionate programmer with a strong focus on enhancing user experience.<br>Experienced in customer relations, teamwork, and leadership.<br> Recognized for attention to detail, a positive attitude, and quickness.
-
+As a developer, I'm passionate about creating user-friendly solutions that make a difference. With extensive experience in full-stack development, I channel my drive into coding smartly and efficiently. My colleagues value my attention to detail and positive energy.
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kay-newyen) 
 
