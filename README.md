@@ -14,9 +14,9 @@ As a developer, I'm passionate about creating user-friendly solutions that make 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kayn85&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 📊 My Projects
-[<img src="https://github.com/kayn85/kayn85/blob/main/onlytechs.png">](https://github.com/kayn85/onlytechs)
-[<img src="https://github.com/kayn85/kayn85/blob/main/easyfood.png">](https://github.com/kayn85/easyfood)
-[<img src="https://github.com/kayn85/kayn85/blob/main/hunger.png">](https://github.com/kayn85/thehunger)
-[<img src="https://github.com/kayn85/kayn85/blob/main/portfolio.png">](https://github.com/kayn85/kay-portfolio)
+[<img src="https://github.com/kayn85/kayn85/blob/main/grafikbanken-screenshot.png" width=40% height=40%>](https://github.com/kayn85/grafikbanken)
+[<img src="https://github.com/kayn85/kayn85/blob/main/onlytechs-screenshot.png" width=40% height=40%>](https://github.com/kayn85/onlytechs)
+[<img src="https://github.com/kayn85/kayn85/blob/main/hunger-screenshot.png" width=40% height=40%>](https://github.com/kayn85/thehunger)
+[<img src="https://github.com/kayn85/kayn85/blob/main/easyfood-screenshot.png" width=40% height=40%>](https://github.com/kayn85/easyfood)
 ---
 [![](https://visitcount.itsvg.in/api?id=kayn85&icon=0&color=1)](https://visitcount.itsvg.in)
