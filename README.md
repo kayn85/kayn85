@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/kayn85/kayn85/blob/main/MasterHeader.png)
 
 ## 👋Hello, I'm Kay!
-As a developer, I'm passionate about creating user-friendly solutions that make a difference. With extensive experience in full-stack development, I channel my drive into coding smartly and efficiently. My colleagues value my attention to detail and positive energy.
+As a developer, I focus on creating user-friendly solutions that make a real impact. With broad experience as a full-stack developer, I write smart and efficient code. My colleagues value my attention to detail and positive attitude.
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kay-newyen) 
 
